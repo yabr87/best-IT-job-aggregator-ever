@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/best-it-job-aggregator-ever/static/css/main.e6c13ad2.css",
-    "main.js": "/best-it-job-aggregator-ever/static/js/main.7c9a103d.js",
+    "main.js": "/best-it-job-aggregator-ever/static/js/main.f0bad51c.js",
     "index.html": "/best-it-job-aggregator-ever/index.html",
     "main.e6c13ad2.css.map": "/best-it-job-aggregator-ever/static/css/main.e6c13ad2.css.map",
-    "main.7c9a103d.js.map": "/best-it-job-aggregator-ever/static/js/main.7c9a103d.js.map"
+    "main.f0bad51c.js.map": "/best-it-job-aggregator-ever/static/js/main.f0bad51c.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.7c9a103d.js"
+    "static/js/main.f0bad51c.js"
   ]
 }
