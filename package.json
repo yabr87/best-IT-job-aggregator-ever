@@ -2,7 +2,6 @@
   "name": "best-it-job-aggregator-ever",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yabr87.github.io/best-it-job-aggregator-ever/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
